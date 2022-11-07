@@ -1,4 +1,9 @@
-= Trace Patch
+= #
+
+:doctype: website
+:text-align: center
+
+image::trace_patch_logo.svg[Static,300]
 
 House & Techno DJ
 
