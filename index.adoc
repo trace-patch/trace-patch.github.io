@@ -1,6 +1,6 @@
 = House & Techno DJ
-Author Name
 // Metadata:
+:author: Trace Patch
 :description: Trace Patch Online Persona
 :keywords: dj, music, munich, house, techno, rave, electro, discobrunch
 // Settings:
