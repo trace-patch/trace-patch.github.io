@@ -1,20 +1,27 @@
-= #
-
+= House & Techno DJ
+Author Name
+// Metadata:
+:description: Trace Patch Online Persona
+:keywords: dj, music, munich, house, techno, rave, electro, discobrunch
+// Settings:
+:icons: font
+:idprefix:
+:idseparator: -
+// Refs:
+:url-project: https://trace.patch.contact/
+:url-docs: https://github.com/trace-patch/trace-patch.github.io/wiki
+:url-issues:  https://github.com/trace-patch/trace-patch.github.io/issues
+:img-ci: 
 :doctype: website
 :text-align: left
+//body
+
 
 image::trace_patch_logo.svg[Static,300]
 
----- 
-
-House & Techno DJ
 
 ----
-
-== ' ' '
-
- 
- 
+---- 
 
 https://soundcloud.com/trace-patch[soundcloud] 
 
