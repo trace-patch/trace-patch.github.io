@@ -17,11 +17,19 @@
 //body
 
 
+[cols="a,a"]
+
+|===
 image::trace_patch_logo.svg[Static,300]
 
+|
+There isn't a vertical alignment operator on this column's specifier, so the column falls back to the default vertical alignment.
+Content is top-aligned by default.
 
-----
----- 
+|=== 
+
+
+''''
 
 https://soundcloud.com/trace-patch[soundcloud] 
 
@@ -30,3 +38,6 @@ https://www.instagram.com/trace.patch/[insta]
 mailto:trace@patch.contact[mail] 
 
 
+==== Nützliche Links
+
+https://www.ravestreamradio.de/raveevents[Münchner Raves]
