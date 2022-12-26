@@ -12,25 +12,25 @@ html {
 }
 
 body {
-    padding: 0;
+    cursor: auto;
     font-family: "Noto Serif","DejaVu Serif",sans-serif;
     line-height: 1;
+    padding: 0;
     position: relative;
-    cursor: auto;
-    -moz-tab-size: 4;
-    -o-tab-size: 4;
     tab-size: 4;
     word-wrap: anywhere;
     -moz-osx-font-smoothing: grayscale;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
     -webkit-font-smoothing: antialiased;
 }
 
 h1 {
-    font-size: 1000%;
+    font-size: 300%;
 }
 
 h4 {
-    font-size: 200%;
+    font-size: 100%;
 }
 
 a {
@@ -38,29 +38,51 @@ a {
 }
 
 .name_patch {
-    margin-top: 25%;
-    margin-bottom: 10%;
-    text-align: center;
     line-height: 0;
+    margin-bottom: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+}
+
+.main_headline {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.trace {
+}
+
+.patch {
+}
+
+.sub_headline {
+    font-size: 100;
+    font-variant: small;
 }
 
 .two_columns{
+    font-size: 120%;
     line-height: 1.2;
-    padding: 3%;
+    margin-left: 20%;
 }
 
 .left_column {
   float: left;
+  text-align: left;
 }
 
 .right_column {
-    float: right;
+    float: left;
+    margin-left: 10%;
+    text-align: left;
 }
 
 .social {
-    font-size: 200%;
+
 }
 
 .event {
-    font-size: 200%;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
