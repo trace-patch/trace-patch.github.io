@@ -57,6 +57,10 @@ a {
 .patch {
 }
 
+.bio_text {
+  line-height: 1;
+}
+
 .sub_headline {
     font-size: 100;
     font-variant: small;
